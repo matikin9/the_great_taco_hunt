@@ -22,6 +22,9 @@ Mariscos Jalisco | 3040 E. Olympic Blvd<br />Boyle Heights | 9am-5:30pm Mon-Sun 
 El Taquito Mexicano | 510 S. Fair Oaks Ave.<br />Pasadena | 6pm-12:30am Mon-Thu<br />6pm-2:45am Fri-Sat<br />5pm-12:30am Sun | truck | great lengua and cabeza tacos |
 Chicas Tacos | 728 S. Olive St.<br />DTLA | 10:30am-10:30pm Mon-Thu<br />10:30am-1:30am Fri<br />10:30am-3pm Sat | restaurant | fish taco topped with Caesar salad |
 Sonoratown | 208 E. 8th St.<br />DTLA | 11am-4pm Tue-Sat | restaurant | great flour tortillas, serves chimichangas |
+Los Originales Tacos Arabes de Puebla | 3549 Olympic Blvd.<br>Boyle Heights | 6:30pm-12am Fri-Sat<br>6:30pm-11:30pm Sun | truck | Arabes 'especiales'-style tacos.  Huge tacos, "Arab" style. |
+Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill |
+Huitlacoche Truck | Cliffs of Id (Mon)<br>LA Boulders (Tue/Thu)<br>Little Bar (Fri/Sat) | 6pm-11pm Mon-Tue<br>6pm-11pm Thu<br>8pm-12am Fri-Sat | truck | huitlacoche tacos/quesadillas, mole tacos/burritos |
 
 Confirm info:
 * El Kamazutra Tortas near melrose and north Vermont Friday-sat 7pm 2 am also mon-sat lunch
