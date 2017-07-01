@@ -16,6 +16,7 @@
   </head>
   <body>
     <div id="tacoMap"></div>
+    <div id="content"></div>
     
     <script>
       var mymap = L.map('tacoMap').setView([34.04,-118.22], 13);
@@ -23,6 +24,26 @@
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
         maxZoom: 18
     }).addTo(mymap);
+    
+    var test_page   = 'los_angeles/tacotrucks.md';
+    var content_div = document.getElementById('content');
+
+    // TEST 3 = use httpObject to load in testpage.htm and time it.
+    function test_()
+    {
+      var xmlHttp = new XMLHttpRequest();
+
+      xmlHttp.onreadystatechange = function() {
+        content_div.innerHTML = xmlHttp.responseText;
+      };
+
+      xmlHttp.open("GET", test_page, true); // true for asynchronous
+      xmlHttp.send(null);
+    }
+
+    // Main - run tests
+    test_();
+      
     </script>
   </body>
 </html>
