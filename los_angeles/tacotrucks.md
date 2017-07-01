@@ -30,5 +30,5 @@ Zamora Brothers | 1503 E. Cesar Chavez Ave.<br>Boyle Heights | 7am-8pm Mon-Sun |
 battleship tacos |
 Sonoratown | 208 E. 8th St.<br>DTLA | 11am-4pm Tue-Sat | restaurant | great flour tortillas, serves chimichangas |
 Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill |
-El Kamazutra Tortas | near melrose and north Vermont | Friday-sat 7pm 2 am also mon-sat lunch | | Tordas de District Federal, unconfirmed  |
-Tacos el galito | la cienaga and Venice, Also Westwood/Santa Monica and Venice/La brea (opposite Leos) | nights | | Not great, but a standby |
+El Kamazutra Tortas | near melrose and north Vermont | Friday-sat 7pm 2 am also mon-sat lunch | | Tordas de District Federal; unconfirmed  |
+Tacos el galito | la cienaga and Venice, Also Westwood/Santa Monica and Venice/La brea (opposite Leos) | nights | | Not great, but a standby; unconfirmed |
