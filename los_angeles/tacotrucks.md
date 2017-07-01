@@ -1,5 +1,5 @@
 Name | Address | Hours | Type | Notes |
------|---------|-------|------|-------|
+-|-|-|-|-|
 Angelicas Cemitas Originales | 10113 Venice Blvd<br>Palms | 11am-2:30pm Mon-Fri | truck | cemitas de milanesa |
 Chicas Tacos | 728 S. Olive St.<br>DTLA | 10:30am-10:30pm Mon-Thu<br>10:30am-1:30am Fri<br>10:30am-3pm Sat | restaurant | fish taco topped with Caesar salad |
 El Chato | 5300 W. Olympic Blvd<br>Mid-Wilshire | 9pm-1:30am Tue-Thu<br>9pm-3:30am Fri-Sat | truck | asada/chorizo tacos, only ok |
@@ -21,13 +21,13 @@ Oaxacan Quesadilla Cart | 1246 Echo Park Ave.<br>Echo Park | 9am-5pm Mon, Fri-Sa
 Quesadillas Lupita | 6140 Lankershim Blvd.<br>North Hollywood | 9am-10pm Mon-Sun | cart | quesadillas |
 Rickys Fish Tacos | 1400 N. Virgil Ave.<br>East Hollywood | 12pm-4pm Wed-Fri<br>11am-5pm Sat<br>11:30am-5pm Sun | truck | fish tacos, shrimp tacos |
 Santa Rita Jalisco | 3900 E. 1st St.<br>East Los Angeles | 11am-12am Mon-Thu<br>11am-3am Fri-Sat<br>11am-1am Sun | truck | fried chicken necks |
-Tacos Cuernavaca | 5511 Whittier Blvd.<br>East LA | 8pm-4am Mon-Sun | truck | cesina (dried beef), picaditas, alhambres (mixed stuff), Tacos El Galuzo | 5555 Whittier Blvd.<br>East LA | 5pm-12am Sun-Thu<br>5pm-1:30am Fri-Sat | truck | cabeza |
+Tacos Cuernavaca | 5511 Whittier Blvd.<br>East LA | 8pm-4am Mon-Sun | truck | cesina (dried beef), picaditas, alhambres (mixed stuff), battleship tacos |
+Tacos El Galuzo | 5555 Whittier Blvd.<br>East LA | 5pm-12am Sun-Thu<br>5pm-1:30am Fri-Sat | truck | cabeza |
 Tacos La Carreta | 413 N. Wilmington Ave.<br>Compton | 3:30pm-9:30pm Sat-Sun | truck | Sinaloa-style carne asada, loaded baked potato |
 Tacos Los Guichos | Olive & Slauson<br>South LA | 8am-12pm Sun-Thu<br>8am-3am Fri-Sat | truck | carnitas |
 Tacos Los Poblanos | 5821 Avalon Blvd.<br>Florence | 6pm-1am Wed-Mon | cart | fresh corn tortillas, smoky carne asada |
 Tacos Tamix | 2402 W. Pico Blvd.<br>Pico-Union | 6pm-1am Sun-Thu<br>6pm-2am Fri-Sat | truck | al pastor |
 Zamora Brothers | 1503 E. Cesar Chavez Ave.<br>Boyle Heights | 7am-8pm Mon-Sun | restaurant | great nachos |
-battleship tacos |
 Sonoratown | 208 E. 8th St.<br>DTLA | 11am-4pm Tue-Sat | restaurant | great flour tortillas, serves chimichangas |
 Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill |
 El Kamazutra Tortas | near melrose and north Vermont | Friday-sat 7pm 2 am also mon-sat lunch | | Tordas de District Federal; unconfirmed  |

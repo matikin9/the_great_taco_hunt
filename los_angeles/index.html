@@ -19,6 +19,7 @@
     <div id="content"></div>
     
     <script>
+    /*global L*/
     var mymap = L.map('tacoMap').setView([34.04,-118.22], 13);
     L.tileLayer('https://api.mapbox.com/styles/v1/matikin9/cim5bt1q100iy9jkpl7ff9d1h/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWF0aWtpbjkiLCJhIjoiYjMyMjBjZTE4NWUxMDkxOWZjZjFjZWEzZTcxNDUxOTkifQ._ldFl3e17jCs7aWm6zMZ3Q', {
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
@@ -33,7 +34,9 @@
       var xmlHttp = new XMLHttpRequest();
 
       xmlHttp.onreadystatechange = function() {
-        content_div.innerHTML = parseData(xmlHttp.responseText);
+        if (xmlHttp.readyState == 4 && xmlHttp.status == 200) {
+          content_div.innerHTML = iterateData(xmlHttp.responseText);
+        }
       };
 
       xmlHttp.open("GET", test_page, true); // true for asynchronous
@@ -41,13 +44,57 @@
     }
 
     // Main - run tests
-    test_();
+    loadData();
     
-    function parseData(data) {
+    function iterateData(data) {
       var result = '';
+      var buffer = '';
+      var row = 0;
+      
+      for (var i = 0; i < data.length; i++) {
+        if (data[i] != '\r' && data[i] != '\n') { // Add characters to buffer until end of row
+          buffer += data[i];
+        } else { // End of Row Reached
+          if (row == 0) { // Validate headers if this is first row
+            row++;
+            isValidHeader(buffer);
+          } else { // Parse data row
+            result += '<div>' + parseRow(buffer) + '</div>';
+          }
+          
+          // Reset buffer for next row
+          buffer = '';
+        }
+      }
       
       return result;
     }
+    
+    function isValidHeader(row) {
+      console.log('check header');
+    }
+    
+    function parseRow(row) {
+      var buffer = '';
+      var result = []
+      
+      if (row[0] == '-') {
+        return '';
+      }
+      
+      for (var i = 0; i < row.length; i++) {
+        if (row[i] != '|') {
+          buffer += row[i];
+        } else {
+          
+          result.push('<div>' + buffer.trim() + '</div>');
+          buffer = '';
+        }
+      }
+      
+      return result.join('');
+    }
+    
     </script>
   </body>
 </html>
