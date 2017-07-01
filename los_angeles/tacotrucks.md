@@ -1,5 +1,5 @@
-Name | Address | Hours | Type | Food |
------|---------|-------|------|------|
+Name | Address | Hours | Type | Notes |
+-----|---------|-------|------|-------|
 Angelicas Cemitas Originales | 10113 Venice Blvd<br>Palms | 11am-2:30pm Mon-Fri | truck | cemitas de milanesa |
 Chicas Tacos | 728 S. Olive St.<br>DTLA | 10:30am-10:30pm Mon-Thu<br>10:30am-1:30am Fri<br>10:30am-3pm Sat | restaurant | fish taco topped with Caesar salad |
 El Chato | 5300 W. Olympic Blvd<br>Mid-Wilshire | 9pm-1:30am Tue-Thu<br>9pm-3:30am Fri-Sat | truck | asada/chorizo tacos, only ok |
@@ -30,9 +30,5 @@ Zamora Brothers | 1503 E. Cesar Chavez Ave.<br>Boyle Heights | 7am-8pm Mon-Sun |
 battleship tacos |
 Sonoratown | 208 E. 8th St.<br>DTLA | 11am-4pm Tue-Sat | restaurant | great flour tortillas, serves chimichangas |
 Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill |
-
-Confirm info:
-* El Kamazutra Tortas near melrose and north Vermont Friday-sat 7pm 2 am also mon-sat lunch
-Tordas de District Federal 
-* Tacos el galito la cienaga and Venice nights
-Also Westwood/Santa Monica and Venice/La brea (opposite Leos) Not great, but a standby
+El Kamazutra Tortas | near melrose and north Vermont | Friday-sat 7pm 2 am also mon-sat lunch | | Tordas de District Federal, unconfirmed  |
+Tacos el galito | la cienaga and Venice, Also Westwood/Santa Monica and Venice/La brea (opposite Leos) | nights | | Not great, but a standby |
