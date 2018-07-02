@@ -13,7 +13,8 @@ La Isla Bonita | 400 Rose Ave.<br>Venice | 11am-8pm Mon-Wed, Fri-Sat<br>11am-7pm
 La Oaxaqueña | Lincoln Blvd & Rose St.<br>Venice | 6pm-2am Mon-Sun | truck | carne asada, tlayudas |
 Leo's Tacos Truck | 1515 S. La Brea Ave.<br>Mid-City | 9:30am-3am Sun-Thu<br>9:30am-4am Fri-Sat | truck | al pastor |
 Los Originales Tacos Arabes de Puebla | 3549 Olympic Blvd.<br>Boyle Heights | 6:30pm-12am Fri-Sat<br>6:30pm-11:30pm Sun | truck | Arabes 'especiales'-style tacos.  Huge tacos, "Arab" style. |
-Mariscos Jalisco | 3040 E. Olympic Blvd<br>Boyle Heights | 9am-5:30pm Mon-Sun | truck | shrimp and seafood tacos and tostadas, second location |
+Mariscos el Faro | 6113-6139 N Figueroa St<br>Highland Park | 10am-6pm Tue-Sun | truck | seafood tostadas, empanadas, and campechana; also serves lobina (sea bass) and jaiva (crab) |
+Mariscos Jalisco | 3040 E. Olympic Blvd<br>Boyle Heights | 9am-5:30pm Mon-Sun | truck | seafood tacos and tostadas, second location |
 Mariscos Los Sitios | 6010 E. Olympic Blvd<br>East Los Angeles | 10am-5pm Mon-Sun | truck | seafood tacos, including a marinated sea bass with the texture of scallops |
 Mexicali | 702 N. Figueroa St.<br>Chinatown | 11am-10pm Mon-Sat | restaurant | pollo vampiro, carne asada anything |
 Nina's Food | 400 S. Soto<br>Boyle Heights | 6pm-12am Thu-Sun | truck | huitlacoche (corn fungus) quesadilla with salsa semilla |
