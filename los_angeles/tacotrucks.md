@@ -30,6 +30,9 @@ Tacos Los Poblanos | 5821 Avalon Blvd.<br>Florence | 6pm-1am Wed-Mon | cart | fr
 Tacos Tamix | 2402 W. Pico Blvd.<br>Pico-Union | 6pm-1am Sun-Thu<br>6pm-2am Fri-Sat | truck | al pastor |
 Zamora Brothers | 1503 E. Cesar Chavez Ave.<br>Boyle Heights | 7am-8pm Mon-Sun | restaurant | great nachos |
 Sonoratown | 208 E. 8th St.<br>DTLA | 11am-4pm Tue-Sat | restaurant | great flour tortillas, serves chimichangas |
-Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill |
+Tacorona | 1913 E. 1st St.<br>Boyle Heights |  | cart | Sonora-style, charcoal grill; **MIA as of 2018** |
+----- | ----- | ----- | ----- | ----- | 
 El Kamazutra Tortas | near melrose and north Vermont | Friday-sat 7pm 2 am also mon-sat lunch | | Tordas de District Federal; unconfirmed  |
 Tacos El Galito | la cienaga and Venice, Also Westwood/Santa Monica and Venice/La brea (opposite Leos) | nights | | Not great, but a standby; unconfirmed |
+Asadero Chikali | 401 S. Atlantic Blvd, East LA | 9:30am-10:30pm Wed-Thu<br>9:30am-11:30pm Fri-Sat<br>9:30am-8pm Sun | truck | Mexicali style tacos, carne asada, handmade flour tortillas, vampiros.  Near the Churros Don Abel truck for dessert. |
+X’tiosu Kitchen | 923 Forest Ave, Boyle Heights | 11:30am-9pm Mon, Wed-Sat<br>11:30am-7:30pm Sun | window, outdoor seating only | Oaxacan/Lebanese fusion |
